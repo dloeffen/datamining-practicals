@@ -1,10 +1,6 @@
 # author: Dirk W.M. Loeffen
 
-def fit(X, y):
-    # Implement the fitting of a k nearest neighbor algorithm
+def predict(X_train, X_test, y_train, k):
+    # implement knn classification algorithm
+    
     pass
-
-def predict(X, model):
-    # Implement the prediction of the k nearest neighbor algorithm
-    pass
-
